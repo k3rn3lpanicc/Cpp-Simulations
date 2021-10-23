@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1570645106 source:c:\users\matin\desktop\electricfield\main.cpp
+	<iostream>
+	<cmath>
+	<graphics.h>
+
+1573753866 source:c:\users\matin\desktop\programming\c++\physics\electricfield\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<graphics.h>
+
