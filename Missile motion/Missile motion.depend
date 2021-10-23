@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1634990881 source:c:\users\matin\desktop\tools for project\missile motion\main.cpp
+	<iostream>
+	<graphics.h>
+	<math.h>
+	<string>
+
