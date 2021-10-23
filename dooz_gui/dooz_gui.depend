@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1554460865 source:c:\users\matin\desktop\dooz_gui\main.cpp
+	<iostream>
+	<graphics.h>
+	<cmath>
+
+1554585362 source:c:\users\matin\desktop\programming\c++\dooz_gui\main.cpp
+	<iostream>
+	<graphics.h>
+	<cmath>
+	<algorithm>
+
+1554585362 source:c:\users\matin\desktop\programming\c++\helli\dooz_gui\main.cpp
+	<iostream>
+	<graphics.h>
+	<cmath>
+	<algorithm>
+
