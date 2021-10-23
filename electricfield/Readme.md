@@ -13,3 +13,15 @@ Examples :
 
 2:
 
+
+![number1](https://raw.githubusercontent.com/k3rn3lpanicc/Cpp-Playground/master/electricfield/2.png?raw=true)
+
+3:
+
+
+![number1](https://raw.githubusercontent.com/k3rn3lpanicc/Cpp-Playground/master/electricfield/3.png?raw=true)
+
+4:
+
+
+![number1](https://raw.githubusercontent.com/k3rn3lpanicc/Cpp-Playground/master/electricfield/4.png?raw=true)
