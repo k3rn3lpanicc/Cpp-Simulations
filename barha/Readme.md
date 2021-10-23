@@ -1,5 +1,6 @@
 # Electric Field Heatmap
 the places wich the sum of all electric fields is stronger will be more colorful and places wich are blacker , have less electric field force.
+It can also find the point in wich the electric field is 0
 
 Examples : 
 
