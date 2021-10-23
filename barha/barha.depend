@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1568221690 source:c:\users\matin\desktop\barha\main.cpp
+	<iostream>
+	<graphics.h>
+	<cmath>
+
+1570635950 source:c:\users\matin\desktop\programming\c++\physics\barha\main.cpp
+	<iostream>
+	<graphics.h>
+	<cmath>
+
