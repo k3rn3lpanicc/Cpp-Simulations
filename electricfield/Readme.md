@@ -4,4 +4,4 @@ it has 4 mod : 1-two equal charges 2-two equal but inverse charges 3-two Planes 
 Examples :
 1:
 
-[!number1](Cpp-Playground/electricfield/1.png)
+[!number1](https://github.com/k3rn3lpanicc/Cpp-Playground/blob/master/electricfield/1.png)
