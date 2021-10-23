@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1567694686 source:c:\users\matin\desktop\fanar\main.cpp
+	<iostream>
+	<graphics.h>
+	<cmath>
+
+1579795231 source:c:\users\matin\desktop\programming\c++\physics\fanar\main.cpp
+	<iostream>
+	<graphics.h>
+	<cmath>
+
+1634981297 source:d:\programming\c++\physics\fanar\main.cpp
+	<iostream>
+	<graphics.h>
+	<cmath>
+
