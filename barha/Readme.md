@@ -15,7 +15,7 @@ Examples :
 ![1](https://raw.githubusercontent.com/k3rn3lpanicc/Cpp-Playground/master/barha/2.png)
 
 
-2:
+3:
 
 
 ![1](https://raw.githubusercontent.com/k3rn3lpanicc/Cpp-Playground/master/barha/3.png)
