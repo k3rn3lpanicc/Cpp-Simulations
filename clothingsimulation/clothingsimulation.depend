@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637267908 source:d:\programming\c++\c shit\clothingsimulation\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+
