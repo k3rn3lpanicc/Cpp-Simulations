@@ -1,15 +1,18 @@
-# Cpp Playground
- My simulations with c++
+# Cpp Simulations with graphics.h
+ My simulations with graphics.h library in c++
  
  
  
 [Missile Motion](https://github.com/k3rn3lpanicc/Cpp-Playground/tree/master/Missile%20motion)
 
 
-[Barha](https://github.com/k3rn3lpanicc/Cpp-Playground/tree/master/barha)
+[Electric heatmap of Charges](https://github.com/k3rn3lpanicc/Cpp-Playground/tree/master/barha)
 
 
-[DoozGui](https://github.com/k3rn3lpanicc/Cpp-Playground/tree/master/dooz_gui)
+[classic AI based XO game](https://github.com/k3rn3lpanicc/Cpp-Playground/tree/master/dooz_gui)
+
+
+[Clothing Simulation](https://github.com/k3rn3lpanicc/Cpp-Playground/tree/master/clothingsimulation)
 
 
 [ElectricField](https://github.com/k3rn3lpanicc/Cpp-Playground/tree/master/electricfield)
