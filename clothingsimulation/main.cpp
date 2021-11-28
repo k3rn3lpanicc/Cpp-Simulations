@@ -134,7 +134,7 @@ int main()
 
     int nullpoint;
     nullpoint = -1;
-    _ax=4;
+    _ax=0;
     g = 8.5;
     for(int i = 0; i<martabe ; i++){
         for(int j = 0 ; j<martabe ; j++){
@@ -158,31 +158,12 @@ int main()
             jesms[ind].neighbours[3] = (ind<=(martabe*martabe -1) && ind>=(martabe*(martabe-1))) ? nullpoint : ind+martabe;
         }
     }
-     /*
-     for(int i = 0 ; i < martabe ; i++){
-        for(int j = 0 ; j < martabe ; j++){
-            int ind = martabe*i + j;
-            if(ind%martabe==0 || ind%martabe == martabe-1 ||(ind<=(martabe*martabe -1) && ind>=(martabe*(martabe-1))) || (ind<=martabe-1 && ind>=0) ){
-                jesms[ind].is_static = true;
-            }
+    //for(int i = 0 ; i < martabe*martabe ;i+=(2*martabe)){
+    //jesms[i].is_static = true;
+    //}
 
-        }
-        }
-        */
-    for(int i = 0 ; i < martabe*martabe ;i+=(2*martabe)){
-    jesms[i].is_static = true;
-    }
-    //jesms[].is_static =true;
-    //jesms[22].is_static = true;
-    /*the array :
-    0 10 20 30 40 50 60 70 80 90
-    1 11 21 31 41 51 61 71 81 91
-    2 12 22 32 42 52 62 72 82 92
-    3 ...
-    .
-    .
-    .
-    */
+    jesms[55].is_static = true;
+
     initwindow(1800, 1000);
     while(!kbhit()){
     rasm();
