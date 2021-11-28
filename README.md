@@ -1,4 +1,4 @@
-# Cpp Simulations with graphics.h
+# Cpp Physics & Simulations with graphics.h
  My simulations with graphics.h library in c++
  
  
