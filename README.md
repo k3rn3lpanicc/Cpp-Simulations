@@ -9,7 +9,7 @@
 [Electric heatmap of Charges](https://github.com/k3rn3lpanicc/Cpp-Playground/tree/master/barha)
 
 
-[DoozGui](https://github.com/k3rn3lpanicc/Cpp-Playground/tree/master/dooz_gui)
+[classic AI based XO game](https://github.com/k3rn3lpanicc/Cpp-Playground/tree/master/dooz_gui)
 
 
 [Clothing Simulation](https://github.com/k3rn3lpanicc/Cpp-Playground/tree/master/clothingsimulation)
