@@ -12,6 +12,9 @@
 [DoozGui](https://github.com/k3rn3lpanicc/Cpp-Playground/tree/master/dooz_gui)
 
 
+[Clothing Simulation](https://github.com/k3rn3lpanicc/Cpp-Playground/tree/master/clothingsimulation)
+
+
 [ElectricField](https://github.com/k3rn3lpanicc/Cpp-Playground/tree/master/electricfield)
 
 
