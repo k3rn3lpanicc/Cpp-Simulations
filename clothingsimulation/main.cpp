@@ -8,7 +8,7 @@ double _ax=4;
 int martabe = 11;
 double k = 10; //you don't wanna mess with this little shit
 double azad = 40;
-double initializeLength = 40;
+double initializeLength = 45;
 
 struct point{
 double x;
@@ -135,7 +135,7 @@ int main()
     int nullpoint;
     nullpoint = -1;
     _ax=4;
-    g = 8;
+    g = 8.5;
     for(int i = 0; i<martabe ; i++){
         for(int j = 0 ; j<martabe ; j++){
             int ind = martabe*i + j;
