@@ -2,6 +2,12 @@
  My simulations with graphics.h library in c++
  
  
+ # [Gravity Simulation](https://github.com/k3rn3lpanicc/Cpp-Playground/tree/master/Gravity)
+
+
+![Watch the video](https://github.com/k3rn3lpanicc/Cpp-Simulations/blob/master/Gravity/output.gif?raw=true)
+
+ 
  
 # [Missile Motion](https://github.com/k3rn3lpanicc/Cpp-Playground/tree/master/Missile%20motion)
 
@@ -39,8 +45,4 @@
 ![Watch the video](https://dl.dropboxusercontent.com/s/572skqcatq106nb/ezgif.com-gif-maker.gif?dl=0)
 
 
-# [Gravity Simulation](https://github.com/k3rn3lpanicc/Cpp-Playground/tree/master/Gravity)
-
-
-![Watch the video](https://github.com/k3rn3lpanicc/Cpp-Simulations/blob/master/Gravity/output.gif?raw=true)
 
