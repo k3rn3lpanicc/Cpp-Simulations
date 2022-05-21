@@ -1,5 +1,5 @@
-# Cpp Physics & Simulations with graphics.h
- My simulations with graphics.h library in c++
+# Cpp Physics & Simulations
+ My simulations with graphics.h and SDL2 libraries in c++
  
  
  # [Gravity Simulation](https://github.com/k3rn3lpanicc/Cpp-Playground/tree/master/Gravity)
